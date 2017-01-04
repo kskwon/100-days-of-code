@@ -7,7 +7,6 @@
 **Link to work:** https://www.freecodecamp.com/kskwon
 
 ### Day 2: January 4, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
