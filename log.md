@@ -2,7 +2,7 @@
 
 ### Day 1: January 3, 2017
 
-**Today's Progress**: Enhanced my knowledge of CSS and HTML with freeCodeCamp's Map.
+**Today's Progress**: Enhanced my knowledge of HTML5 and CSS with freeCodeCamp's Map.
 
 **Link to work:** https://www.freecodecamp.com/kskwon
 
