@@ -8,12 +8,9 @@
 
 ### Day 2: January 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Focused on studying the Back End Developer Elective in the Udacity Nanodegree.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Thoughts**: Back End is really interesting. Like all new concepts, it is difficult to understand but I can see myself pursuing a path as a fullstack developer.
 
 ### Day 1: June 27, Monday
 
