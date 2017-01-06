@@ -12,6 +12,18 @@
 
 **Thoughts**: Back End is really interesting. Like all new concepts, it is difficult to understand but I can see myself pursuing a path as a fullstack developer.
 
+### Day 3:  January 5, 2017
+
+**Today's Progress**: Continued studying the Back End Developer Elective in the Udacity Nanodegree.
+
+**Thoughts**: SQL shares some similarities with Python but also has differences. Learning a lot about SQL clauses and hopefully will be able to finish the nanodegree within this week.
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
