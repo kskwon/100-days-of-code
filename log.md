@@ -20,9 +20,9 @@
 
 ### Day 4: January 6, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Got through to the 3rd lesson of the Back End Developer Elective. Going by this progress, should be able to finish it by tomorrow, if not, Sunday.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Learned about SQL selects, joins, and inserts.
 
 ### Day 1: June 27, Monday
 
